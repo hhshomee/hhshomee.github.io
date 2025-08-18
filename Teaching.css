@@ -164,7 +164,7 @@
   border-color: transparent !important;
 }
 
-.u-section-1 .u-container-layout:hover .u-btn-1 {
+.u-section-1 :hover > .u-container-layout .u-btn-1 {
   border-color: transparent !important;
   transform: scale(1) translateY(px) !important;
 }
@@ -173,7 +173,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-1 .u-btn-1 {
+.u-section-1 .hover > .u-container-layout .u-btn-1 {
   border-color: transparent !important;
   transform: scale(1) translateY(px) !important;
 }
@@ -188,7 +188,7 @@
   border-color: transparent !important;
 }
 
-.u-section-1 .u-container-layout:hover .u-btn-2 {
+.u-section-1 :hover > .u-container-layout .u-btn-2 {
   border-color: transparent !important;
   transform: scale(1) translateY(px) !important;
 }
@@ -197,7 +197,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover > .u-section-1 .u-btn-2 {
+.u-section-1 .hover > .u-container-layout .u-btn-2 {
   border-color: transparent !important;
   transform: scale(1) translateY(px) !important;
 } .u-section-2 {
