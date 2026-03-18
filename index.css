@@ -654,4 +654,8 @@
   .u-section-4 .u-layout-wrap-1 {
     width: 340px;
   }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 206px;
+  }
 }
