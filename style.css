@@ -241,7 +241,7 @@ h1, h2, h3, h4, h5, h6 {
   gap: 8px;
 }
 
-.updates-icon { width: 52px; height: 52px; margin: 0; }
+.updates-icon { width: 80px; height: 80px; margin: 0; }
 
 .updates-carousel {
   position: relative;
