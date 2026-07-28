@@ -101,7 +101,7 @@
 .u-section-1 .u-image-1 {
   min-height: 393px;
   --effect-scale: 1.25;
-  background-image: url("images/image_50383617.JPG");
+  background-image: url("images/shomee.JPG");
   background-position: 50% 50%;
   --radius: 50px;
   transition-duration: 5s;
@@ -379,7 +379,7 @@
 
 .u-section-3 .u-image-1 {
   background-position: 50% 50%;
-  background-image: url("images/maxresdefault.jpg");
+  background-image: url("images/uic.jpg");
   background-size: cover;
   min-height: 251px;
 }
@@ -390,7 +390,7 @@
 
 .u-section-3 .u-image-2 {
   background-position: 50% 50%;
-  background-image: url("images/download.jpeg");
+  background-image: url("images/argonne.jpeg");
   background-size: cover;
   min-height: 235px;
 }
@@ -428,7 +428,7 @@
 .u-section-3 .u-image-3 {
   min-height: 251px;
   background-position: 50% 50%;
-  background-image: url("images/f32f7052c05107b87bf0991e0691f2371.jpg");
+  background-image: url("images/bracu.jpg");
   background-size: cover;
 }
 
