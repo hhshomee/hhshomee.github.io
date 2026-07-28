@@ -113,8 +113,8 @@ h1, h2, h3, h4, h5, h6 {
   gap: 8px;
   padding: 10px 26px;
   border-radius: 999px;
-  background: var(--color-primary);
-  color: #fff;
+  background-color: var(--color-primary) !important;
+  color: #fff !important;
   font-weight: 700;
   font-size: 0.9rem;
   border: none;
